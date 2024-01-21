@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/rising_miatoll.mk
+    $(LOCAL_DIR)/lineage_miatoll.mk
 
 COMMON_LUNCH_CHOICES := \
-    rising_miatoll-user \
-    rising_miatoll-userdebug \
-    rising_miatoll-eng
+    lineage_miatoll-user \
+    lineage_miatoll-userdebug \
+    lineage_miatoll-eng
